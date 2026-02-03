@@ -1,8 +1,6 @@
 # AWS-CLI-Commands
 AWS Command Line commands which we use on daily purpose
 
-Adding a test line
-
 #### AWS Configure:
 - To configure a new AWS account in CLI:
 ```
